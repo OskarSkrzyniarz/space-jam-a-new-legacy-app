@@ -85,7 +85,7 @@ function displayPlayerBench() {
 
 
     // Display cards for all players
-
+    displayPlayerBench()
 }
 
 // This function is called at the beginning of the game play to initialize
