@@ -7,13 +7,13 @@
     },
     {
       "file": "main.js",
-      "line": 233,
-      "description": "When a quarter ends the clock display should reset to 0:00. You can do this by updating the `innerText` of the `timer` element."
+      "line": 236,
+      "description": "Remember, you have a variable called `quarterInPlay` that should be set to false when a quarter ends."
     },
     {
       "file": "main.js",
-      "line": 236,
-      "description": "Remember, you have a variable called `quarterInPlay` that should be set to false when a quarter ends."
+      "line": 233,
+      "description": "When a quarter ends the clock display should reset to 0:00. You can do this by updating the `innerText` of the `timer` element."
     },
     {
       "file": "main.js",
